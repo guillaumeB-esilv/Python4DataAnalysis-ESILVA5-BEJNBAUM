@@ -1,7 +1,7 @@
 # Python4DataAnalysis-ESILVA5-BEJNBAUM
 Final project for "Python for Data Analysis" ESILV course. Developed by Ariane HUCKEL-ANTOINE (CORE IBO???) and Guillaume BOULEY (CORE IBO2)
 
-## about the dataset 
+## About the dataset 
 ### Link
 > https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
 The Dataset is uploaded in ZIP format. The dataset contains 5 variants of the dataset, for the details about the variants and detailed analysis read and cite the research paper
