@@ -3,7 +3,8 @@ Final project for "Python for Data Analysis" ESILV course. Developed by Ariane H
 
 ## about the dataset 
 ### Link
->>> https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
+> https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
+The Dataset is uploaded in ZIP format. The dataset contains 5 variants of the dataset, for the details about the variants and detailed analysis read and cite the research paper
 ### Abstract: 
 Instances in this dataset contain features extracted from facebook posts. The task associated with the data is to predict how many comments the post will receive.
 
