@@ -1,39 +1,38 @@
 # Python4DataAnalysis-ESILVA5-BEJNBAUM
 Final project for "Python for Data Analysis" ESILV course. Developed by Ariane HUCKEL-ANTOINE (CORE IBO???) and Guillaume BOULEY (CORE IBO2)
 
+## about the dataset 
+### Link
+>>> https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
+### Abstract: 
+Instances in this dataset contain features extracted from facebook posts. The task associated with the data is to predict how many comments the post will receive.
 
 ### Features Description :
-
 #### 1
 Page Popularity/likes
 Decimal Encoding
 Page feature
 Defines the popularity or support for the source of the document.
-
 #### 2
 Page Checkinsâ€™s
 Decimal Encoding
 Page feature
 Describes how many individuals so far visited this place. This feature is only associated with the places eg:some institution, place, theater etc.
-
 #### 3
 Page talking about
 Decimal Encoding
 Page feature
 Defines the daily interest of individuals towards source of the document/ Post. The people who actually come back to the page, after liking the page. This include activities such as comments, likes to a post, shares, etc by visitors to the page.
-
 #### 4
 Page Category
 Value Encoding
 Page feature
 Defines the category of the source of the document eg: place, institution, brand etc.
-
 #### 5 - 29
 Derived
 Decimal Encoding
 Derived feature
 These features are aggregated by page, by calculating min, max, average, median and standard deviation of essential features.
-
 #### 30
 CC1
 Decimal Encoding
