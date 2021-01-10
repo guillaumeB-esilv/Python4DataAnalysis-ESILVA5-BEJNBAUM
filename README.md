@@ -113,7 +113,7 @@ Target;
 The no of comments in next H hrs(H is given in Feature no 39).
 
 ## Objectives :
-As we said the goal is to predict the amount of comment a Facebok post will received based on 53 features on the pages, the post and other related factor.
+As we said the goal is to predict the amount of comment a Facebok post will received based on 53 features on the pages, the post and other related factors.
 
 ## Data processing 
 First we look at the correlation between the features. Then we did some data cleaning : labelize features, transform binaries features, convert feature 4 integers to string.
