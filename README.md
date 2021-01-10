@@ -3,7 +3,8 @@ Final project for "Python for Data Analysis" ESILV course. Developed by Ariane H
 
 ## About the dataset 
 ### Link
-> https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
+https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset
+
 
 The Dataset is uploaded in ZIP format. The dataset contains 5 variants of the dataset, for the details about the variants and detailed analysis read and cite the research paper
 ### Abstract: 
@@ -112,3 +113,15 @@ Target Variable;
 Decimal;
 Target;
 The no of comments in next H hrs(H is given in Feature no 39).
+
+## Objectives :
+As we said in abstract section, the goal is to predict the amount of comment a Facebok post will received based on 53 features on the pages, the post and other related factors
+
+## Data processing 
+First we look at the correlation between the features. Then we did some data cleaning : labelize features, transform binaries features, convert feature 4 integers to string.
+
+## Data visualization
+The goal is to learn what influence the number of comments on posts. So, we look at the Page Features if we have some interesting things to discover
+
+## Data modelisation
+We performed differents machine learning models and we compare them in in order to determinate the most optimized.
